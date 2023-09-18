@@ -22,10 +22,10 @@ p {
 }
 
 img {
+    text-align: center;
     width: 250px;
-    margin-left: auto;
-    margin-right: auto;
     display: block;
+    margin: auto;
     border: #ffffff;
     border-style: dashed;
     border-width: 10px;
